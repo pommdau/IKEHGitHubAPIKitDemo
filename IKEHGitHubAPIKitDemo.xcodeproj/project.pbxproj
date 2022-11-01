@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DA21B6BC29115C8C001BBBA6 /* LongLInes.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA21B6BB29115C8C001BBBA6 /* LongLInes.swift */; };
 		DA854C172911598C0014A1D9 /* IKEHGitHubAPIKitDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA854C162911598C0014A1D9 /* IKEHGitHubAPIKitDemoApp.swift */; };
 		DA854C192911598C0014A1D9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA854C182911598C0014A1D9 /* ContentView.swift */; };
 		DA854C1B2911598D0014A1D9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA854C1A2911598D0014A1D9 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DA21B6BB29115C8C001BBBA6 /* LongLInes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongLInes.swift; sourceTree = "<group>"; };
 		DA854C132911598C0014A1D9 /* IKEHGitHubAPIKitDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IKEHGitHubAPIKitDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA854C162911598C0014A1D9 /* IKEHGitHubAPIKitDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IKEHGitHubAPIKitDemoApp.swift; sourceTree = "<group>"; };
 		DA854C182911598C0014A1D9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				DA854C162911598C0014A1D9 /* IKEHGitHubAPIKitDemoApp.swift */,
 				DA854C182911598C0014A1D9 /* ContentView.swift */,
+				DA21B6BB29115C8C001BBBA6 /* LongLInes.swift */,
 				DA854C1A2911598D0014A1D9 /* Assets.xcassets */,
 				DA854C1C2911598D0014A1D9 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				DA854C192911598C0014A1D9 /* ContentView.swift in Sources */,
 				DA854C172911598C0014A1D9 /* IKEHGitHubAPIKitDemoApp.swift in Sources */,
+				DA21B6BC29115C8C001BBBA6 /* LongLInes.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
