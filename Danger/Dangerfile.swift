@@ -74,3 +74,4 @@ if isAllCheckPassed {
 checkBranchNames(danger.github.pr.head.ref, danger.github.pr.base.ref)
 
 */
+
